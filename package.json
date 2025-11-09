@@ -15,9 +15,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Ftwrr/botwaweb.git"
+    "url": "https://github.com/pxNuestra/botwaweb.git"
   },
-  "author": "Ftwrr",
+  "author": "pxNuestra",
   "license": "ISC",
   "dependencies": {
     "@xct007/frieren-scraper": "github:xct007/frieren-scraper",
